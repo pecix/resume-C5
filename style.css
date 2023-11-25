@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: top;
+}
+
+td h2:nth-child(2) {
+    color: red;
+}
